@@ -1,0 +1,6 @@
+- scram-sha-256
+- pg_hba.conf
+- roles
+- masking view
+- logs DDL
+- accesos fallidos

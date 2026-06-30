@@ -1,0 +1,31 @@
+# Credenciales y secretos
+*.key
+*.pem
+*.crt
+*.env
+.pgpass
+*.password
+secrets.*
+credentials.*
+
+# Backups reales
+*.backup
+*.dump
+*.bak
+*.tar
+*.gz
+
+# Logs
+*.log
+
+# Archivos temporales
+*.tmp
+*.swp
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+
+# Evidencias sensibles
+evidence/private/

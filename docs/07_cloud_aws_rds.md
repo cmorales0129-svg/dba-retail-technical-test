@@ -1,0 +1,6 @@
+- RDS PostgreSQL
+- Security Group
+- Backups
+- Parameter Group
+- CloudWatch
+- acceso seguro
